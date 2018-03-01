@@ -1,3 +1,9 @@
+# Reflection 6
+## 3/1/2018
+ this week i learned how to put things from putty to git hub and i made a thing for all of my reflection we learnd about the trello board. we also talked hhow to git hub pull and push
+i also learned how to wirte xml and how to make a folder for ir and so what it acully it dose and how it works. and we mad a repostory so we could keep it.
+
+
 # Reflection 4
 ## 2/23/2108
  this week i learned about what git hub is and how to use it and what it is used for. we learned some more things on
