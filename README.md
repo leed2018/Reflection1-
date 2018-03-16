@@ -1,3 +1,11 @@
+# Reflection 7
+## 3/16/2018
+ this week i leard things about xml like so new commands and things.we also leanred more about html and how it works. we also learned how to make the code work if it dosent.
+ i also learned how to mke a website on my dog witch was fun and cool. and we learned how to look at the website we made.
+
+
+
+
 # Reflection 6
 ## 3/1/2018
  this week i learned how to put things from putty to git hub and i made a thing for all of my reflection we learnd about the trello board. we also talked hhow to git hub pull and push
