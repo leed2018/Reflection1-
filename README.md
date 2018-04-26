@@ -1,3 +1,9 @@
+# Reflection 10
+## 4/26/18
+  this week i leanred about how to use boot strap i learned what code accademy was. code accadamy helped me learn how to user boot strap better and where to use it. i also worked on 
+my pforile project so it looked better i also got my google friday 50% done.
+
+
 # Reflection 9
 ## 4/25/18
   this week i learned about how to use bootstrap and use it in css and i learned about it so that i can use it in my google friday project and it can make it easier. i also leanred how 
