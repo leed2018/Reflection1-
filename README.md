@@ -1,3 +1,8 @@
+# Reflection 11
+# 5/1/18
+ today i did the prfile project i put my school picture in it and completed my bio 
+
+
 # Reflection 10
 ## 4/26/18
   this week i leanred about how to use boot strap i learned what code accademy was. code accadamy helped me learn how to user boot strap better and where to use it. i also worked on 
