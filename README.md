@@ -1,5 +1,11 @@
+# Reflection 12 
+## 5/4/18
+today i worked on my project for my proflie i added one test picture to see if it worked and it did. i need to still fix a couple things like the name and the pictures.
+
+
+
 # Reflection 11
-# 5/1/18
+## 5/1/18
  today i did the prfile project i put my school picture in it and completed my bio 
 
 
