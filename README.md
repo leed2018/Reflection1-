@@ -1,3 +1,10 @@
+# Reflection 16
+## this is my last reflection of the year. this week i have worked mosly on my google friday project and my mad libs project. my mad libs project was about useing java script and 
+seeinh how it works. i used things like alert and and var to make a mad lib and enter verbs and nouns into our project. ive also been working om my google friday project website. whitch 
+is an informative page on my clothing brand. my google friday project is almost done but i know its due on wensday. 
+
+
+
 # Reflection 15
 ## this week i leanred about java script and how it works. i leanrd how todo alerts and how to add like your name into text and it adds it into the the text
 i also lenrd how to put it into our connsole commands. and how it wokrs so only people who are looking for it acully see it. 
